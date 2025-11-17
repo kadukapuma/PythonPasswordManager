@@ -1,11 +1,11 @@
-# 🔐 SecureVault Password Manager  
+# 🔐 PythonPasswordManager  
 A modern, secure, and beautifully designed **Python-based desktop password manager** with AES-256 GCM encryption, PBKDF2 key derivation, strong password generator, search, CRUD UI, and master-password protection.
 
 ---
 
 ## 📌 Overview
 
-**SecureVault Password Manager** is a desktop application built using **Python + Tkinter** that allows users to **store, manage, and encrypt** their passwords safely.  
+**PythonPasswordManager** is a desktop application built using **Python + Tkinter** that allows users to **store, manage, and encrypt** their passwords safely.  
 All stored passwords are **fully encrypted using AES-256-GCM**, and access is protected with a **master password** verified during application startup.  
 
 🔹 No cloud storage  
@@ -79,7 +79,7 @@ Your encrypted vault is stored safely in the **AppData roaming directory**:
 
 - Download the .exe from the Exefile
 
-- Run SecureVault.exe
+- Run password_manager.exe
 
 - Enter your master password
 
@@ -103,8 +103,14 @@ Your encrypted vault is stored safely in the **AppData roaming directory**:
 
 - Use a strong master password (min 10+ chars, mixed)
 
+
 ---
 ## 🤝 Contributing
 
 ### **Pull requests, suggestions, and improvements are welcome!**
 
+---
+## 📸 Screenshots
+
+<img width="454" height="357" alt="PM1" src="https://github.com/user-attachments/assets/48ceef2c-0139-4646-9db0-4017f2910176" />
+<img width="1205" height="737" alt="PM2" src="https://github.com/user-attachments/assets/62163d79-bf94-4858-b032-f45b2f558e65" />
